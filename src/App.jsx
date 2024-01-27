@@ -1,6 +1,6 @@
 import React from 'react'
 import Products from './components/Products'
-import Cart from './components/cart'
+import Cart from './components/Cart'
 import CartContext from './utils/CartContextComponent'
 import {BrowserRouter,Routes,Route,Navigate} from 'react-router-dom'
 import NavBar from './components/NavBar'
